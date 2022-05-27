@@ -8,5 +8,7 @@ function validBraces(brace = "{}{}{}{}()") {
     if(res === 0) return true;
     return false;
 }
+// TIME COMPLEXITY O(n)
+//  SPACE COMPLEXITY O(1)
 
 console.log(validBraces());
