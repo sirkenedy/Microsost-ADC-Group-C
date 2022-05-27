@@ -1,0 +1,5 @@
+1. How many stack to we need to implement a queue
+
+answer - we need Two stack
+
+2. Stack handles operation in LIFO WHILE Queue follows FIFO
